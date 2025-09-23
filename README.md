@@ -13,7 +13,7 @@ This project uses Python 3.8+ and the following libraries:
 - `matplotlib`
 - `numpy`
 
-You can install dependencies with:
+You can install dependencies and run the program with:
 ```bash
 pip install matplotlib numpy
 python experiment.py
